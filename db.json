@@ -1,0 +1,321 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "The Best JavaScript Blogs",
+      "description": "Ben Nadel is a NY-based programmer, co-founder, and principal engineer at InVision App, Inc, a design and user experience (UX) company. His blog — sometimes known as “The Kinky Solutions” blog — documents his programming experimentation.",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 2,
+      "authorId": 2,
+      "title": "Amazing blog related to Python",
+      "description": "Full stack python (https://www.fullstackpython.com/) is cool. It's more of that next step to get a full app up and running.",
+      "views": 15,
+      "category": "programming"
+    },
+    {
+      "id": 3,
+      "authorId": 3,
+      "title": "UX Collective",
+      "description": "A collection of articles, case studies, and resources curated by designers from around the world. It covers a wide range of topics in UX design, including user research, interaction design, and usability testing.",
+      "views": 100,
+      "category": "UI/UX"
+    },
+    {
+      "id": 4,
+      "authorId": 4,
+      "title": "Advarra posts clinical research type blogs",
+      "description": "Advarra’s blog posts focus primarily on the regulatory issues that are key for designing studies and drafting IRB materials that are likely to be approved. Visit their website for key information on staying compliant and adhering to clinical research standards.",
+      "views": 50,
+      "category": "research"
+    },
+    {
+      "id": 5,
+      "authorId": 5,
+      "title": "UK Scholarships for Indian Students",
+      "description": "Check out the wide range of scholarships available for Indian/International students to study in the UK, aiding their educational journey easily. We all know studying abroad can be pricey, and that’s where UK scholarships for Indian students swoop in to save the day. https://www.securemyscholarship.com/blog/uk-scholarships-for-indian-students-2",
+      "views": 123467,
+      "category": "study"
+    },
+    {
+      "id": 6,
+      "authorId": 6,
+      "title": "Shared Drive – Making an audio sketch show",
+      "description": "By Tom Worsley Shared Drive is an audio sketch showcase starring Alex Garrick-Wright, Rob Gilroy, Elaine Malcolmson and Rhiannon Shaw. It’s produced, directed and edited by Tom Worsley and scripted edited by Rebecca Bain. Songs are by Alex MJ Smith. Theme tune is by Katie Butler.",
+      "views": 12167,
+      "category": "comedy"
+    },
+    {
+      "id": 7,
+      "authorId": 7,
+      "title": "India vs Bangladesh 2nd T20: Nitish Kumar Reddy smacks seven sixes as hosts shatter multiple records",
+      "description": "Nitish Kumar Reddy smashed seven sixes and four boundaries for 74 runs off 34 balls during the second T20I against Bangladesh at the Arun Jaitley Stadium in New Delhi. The eventual 86-run win gave India an unbeatable 2-0 lead in the series.",
+      "views": 1200,
+      "category": "sports"
+    },
+    {
+      "id": 8,
+      "authorId": 8,
+      "title": "Singer KK Death News Updates: Singer KK passes away at the age of 53",
+      "description": "Well-known Bollywood singer Krishnakumar Kunnath, popularly known as KK, died in Kolkata on Tuesday night, officials said.He was 53. KK was feeling unwell after reaching his hotel, following a performance at a concert in the evening where he sang for almost an hour, officials said. He was taken to a private hospital in south Kolkata where doctors declared him brought dead, they said. It's unfortunate that we could not treat him, a senior official of the hospital said. KK, known as a versatile singer, has recorded songs in Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi and Bengali, among other languages.",
+      "views": 12786,
+      "category": "music"
+    },
+    {
+      "id": 9,
+      "authorId": 9,
+      "title": "Taare Zameen Par",
+      "description": "The movie, Taare Zameen Par, translating directly to “Like Stars on Earth” in English, highlights the story of Ishaan Awasti, an 8 year old boy, who is struggling to excel in school. However, Ishaan possesses incredible artistic ability, which is disregarded by his father, an accomplished executive. Ishaans older brother is their parents “dream child”, excelling both academically and athletically, making Ishaan seem even more like a failure. ",
+      "views": 912,
+      "category": "programming"
+    },
+    {
+      "id": 10,
+      "authorId": 10,
+      "title": "What is Islam?",
+      "description": "Islam is not a new religion, but the same truth that God revealed through all His prophets to every people. For a fifth of the world’s population, Islam is both a religion and a complete way of life. Muslims follow a religion of peace, mercy, and forgiveness",
+      "views": 191263,
+      "category": "religion"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "a title",
+      "description": "",
+      "views": 12,
+      "category": "programming"
+    }
+  ],
+
+  "author": [
+    {
+      "id": 1,
+      "name": "Mr. John",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Joe",
+      "profession": "Software Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Mr. Doe",
+      "profession": "UI/UX designer"
+    },
+    {
+      "id": 4,
+      "name": "Mr. Guest",
+      "profession": "Researcher"
+    },
+    {
+      "id": 5,
+      "name": "Mr. Alien",
+      "profession": "Professor"
+    },
+    {
+      "id": 6,
+      "name": "Mr. Jokes",
+      "profession": "Comedian"
+    },
+    {
+      "id": 7,
+      "name": "Mr. Pant",
+      "profession": "Cricketer"
+    },
+    {
+      "id": 8,
+      "name": "Mr. KK",
+      "profession": "Singer"
+    },
+    {
+      "id": 9,
+      "name": "Mr. DD",
+      "profession": "Film Producer"
+    },
+    {
+      "id": 10,
+      "name": "Md. Jakir Naik",
+      "profession": "Islamic scholar"
+    }
+  ]
+}
