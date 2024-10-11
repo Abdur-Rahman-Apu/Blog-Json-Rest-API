@@ -1,240 +1,240 @@
 {
   "posts": [
     {
-      "id": 1,
-      "authorId": 1,
+      "id": "1",
+      "authorId": "1",
       "title": "The Best JavaScript Blogs",
       "description": "Ben Nadel is a NY-based programmer, co-founder, and principal engineer at InVision App, Inc, a design and user experience (UX) company. His blog — sometimes known as “The Kinky Solutions” blog — documents his programming experimentation.",
       "views": 12,
       "category": "programming"
     },
     {
-      "id": 2,
-      "authorId": 2,
+      "id": "2",
+      "authorId": "2",
       "title": "Amazing blog related to Python",
       "description": "Full stack python (https://www.fullstackpython.com/) is cool. It's more of that next step to get a full app up and running.",
       "views": 15,
       "category": "programming"
     },
     {
-      "id": 3,
-      "authorId": 3,
+      "id": "3",
+      "authorId": "3",
       "title": "UX Collective",
       "description": "A collection of articles, case studies, and resources curated by designers from around the world. It covers a wide range of topics in UX design, including user research, interaction design, and usability testing.",
       "views": 100,
       "category": "UI/UX"
     },
     {
-      "id": 4,
-      "authorId": 4,
+      "id": "4",
+      "authorId": "4",
       "title": "Advarra posts clinical research type blogs",
       "description": "Advarra’s blog posts focus primarily on the regulatory issues that are key for designing studies and drafting IRB materials that are likely to be approved. Visit their website for key information on staying compliant and adhering to clinical research standards.",
       "views": 50,
       "category": "research"
     },
     {
-      "id": 5,
-      "authorId": 5,
+      "id": "5",
+      "authorId": "5",
       "title": "UK Scholarships for Indian Students",
       "description": "Check out the wide range of scholarships available for Indian/International students to study in the UK, aiding their educational journey easily. We all know studying abroad can be pricey, and that’s where UK scholarships for Indian students swoop in to save the day. https://www.securemyscholarship.com/blog/uk-scholarships-for-indian-students-2",
       "views": 123467,
       "category": "education"
     },
     {
-      "id": 6,
-      "authorId": 6,
+      "id": "6",
+      "authorId": "6",
       "title": "Shared Drive – Making an audio sketch show",
       "description": "By Tom Worsley Shared Drive is an audio sketch showcase starring Alex Garrick-Wright, Rob Gilroy, Elaine Malcolmson and Rhiannon Shaw. It’s produced, directed and edited by Tom Worsley and scripted edited by Rebecca Bain. Songs are by Alex MJ Smith. Theme tune is by Katie Butler.",
       "views": 12167,
       "category": "comedy"
     },
     {
-      "id": 7,
-      "authorId": 7,
+      "id": "7",
+      "authorId": "7",
       "title": "India vs Bangladesh 2nd T20: Nitish Kumar Reddy smacks seven sixes as hosts shatter multiple records",
       "description": "Nitish Kumar Reddy smashed seven sixes and four boundaries for 74 runs off 34 balls during the second T20I against Bangladesh at the Arun Jaitley Stadium in New Delhi. The eventual 86-run win gave India an unbeatable 2-0 lead in the series.",
       "views": 1200,
       "category": "sports"
     },
     {
-      "id": 8,
-      "authorId": 8,
+      "id": "8",
+      "authorId": "8",
       "title": "Singer KK Death News Updates: Singer KK passes away at the age of 53",
       "description": "Well-known Bollywood singer Krishnakumar Kunnath, popularly known as KK, died in Kolkata on Tuesday night, officials said.He was 53. KK was feeling unwell after reaching his hotel, following a performance at a concert in the evening where he sang for almost an hour, officials said. He was taken to a private hospital in south Kolkata where doctors declared him brought dead, they said. It's unfortunate that we could not treat him, a senior official of the hospital said. KK, known as a versatile singer, has recorded songs in Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi and Bengali, among other languages.",
       "views": 12786,
       "category": "music"
     },
     {
-      "id": 9,
-      "authorId": 9,
+      "id": "9",
+      "authorId": "9",
       "title": "Taare Zameen Par",
       "description": "The movie, Taare Zameen Par, translating directly to “Like Stars on Earth” in English, highlights the story of Ishaan Awasti, an 8 year old boy, who is struggling to excel in school. However, Ishaan possesses incredible artistic ability, which is disregarded by his father, an accomplished executive. Ishaans older brother is their parents “dream child”, excelling both academically and athletically, making Ishaan seem even more like a failure. ",
       "views": 912,
       "category": "movie"
     },
     {
-      "id": 10,
-      "authorId": 10,
+      "id": "10",
+      "authorId": "10",
       "title": "What is Islam?",
       "description": "Islam is not a new religion, but the same truth that God revealed through all His prophets to every people. For a fifth of the world’s population, Islam is both a religion and a complete way of life. Muslims follow a religion of peace, mercy, and forgiveness",
       "views": 191263,
       "category": "religion"
     },
     {
-      "id": 11,
-      "authorId": 10,
+      "id": "11",
+      "authorId": "10",
       "title": "Who are the Muslims?",
       "description": "One billion people from a vast range of races, nationalities and cultures across the globe – from the southern Philippines to Nigeria – are united by their common Islamic faith. About 18% live in the Arab world; the world’s largest Muslim community is in Indonesia; substantial parts of Asia and most of Africa are Muslim, while significant minorities are to be found in the former Soviet Union, China, North and South America, and Europe.",
       "views": 19812,
       "category": "religion"
     },
     {
-      "id": 12,
-      "authorId": 9,
+      "id": "12",
+      "authorId": "9",
       "title": "Paathshaala (2010)",
       "description": "Paathshaala (transl. School) is a 2010 Indian Hindi-language drama film that stars Shahid Kapoor, Ayesha Takia, Shraddha Arya, Ali Haji, Sushant Singh and Nana Patekar and is directed by Milind Ukey. The story, revolving around children on a school campus is a commentary on the Indian education system and its shortcomings. Kapoor plays an English and music teacher. It is inspired by the Marathi film Shaala, also directed by Milind Ukey. Paathshaala opened on 16 April 2010.",
       "views": 1200,
       "category": "movie"
     },
     {
-      "id": 13,
-      "authorId": 8,
+      "id": "13",
+      "authorId": "8",
       "title": "What song do Muslims sing?",
       "description": "Nasheeds are moral, religious recitations recited in various melodies by some Muslims of today without any musical instruments. However, some nasheed groups use percussion instruments, such as the daff. Singing moral songs of this type without instrumentation is considered permissible (halal) by many Muslims.",
       "views": 7812,
       "category": "music"
     },
     {
-      "id": 14,
-      "authorId": 7,
+      "id": "14",
+      "authorId": " 7",
       "title": "Chris Gayle",
       "description": "Christopher Henry Gayle OD (born 21 September 1979) is a Jamaican cricketer who has played international cricket for the West Indies from 1999 to 2021.[1] Nicknamed 'The Universe Boss', Gayle is widely regarded as the greatest batsman ever to have played Twenty20 cricket.[2][3] He played a crucial role in the West Indies teams that won the 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.",
       "views": 12134,
       "category": "sports"
     },
     {
-      "id": 15,
-      "authorId": 6,
+      "id": "15",
+      "authorId": "6",
       "title": "The Kapil Sharma Show",
       "description": "The Kapil Sharma Show, also known as TKSS, is an Indian Hindi language stand-up comedy and talk show broadcast by Sony Entertainment Television. Hosted by Kapil Sharma, the first season of the show premiered on 23 April 2016. The series revolved around Sharma and his neighbours in the Shantivan Non Co-operative Housing Society.",
       "views": 7812,
       "category": "comedy"
     },
     {
-      "id": 16,
-      "authorId": 5,
+      "id": "16",
+      "authorId": "5",
       "title": "Who will receive the Nobel Peace Prize 2024?",
       "description": "Friday 11 October at exactly 11:00, the big door at the Norwegian Nobel Institute will open, and the chair of the Nobel Committee, Jørgen Watne Frydnes will step out and deliver the news the whole world is waiting for: Who will be awarded the Nobel Peace Prize for 2024.",
       "views": 10982,
       "category": "education"
     },
     {
-      "id": 17,
-      "authorId": 4,
+      "id": "17",
+      "authorId": "4",
       "title": "A hurricane scientist logged a final flight as NOAA released his ashes into Milton’s eye",
       "description": "As an award-winning scientist, Peter Dodge had made hundreds of flights into the eyes of hurricanes — almost 400. On Tuesday, a crew on a reconnaissance flight into Hurricane Milton helped him make one more, dropping his ashes into the storm as a lasting tribute to the longtime National Oceanic and Atmospheric Administration radar specialist and researcher.",
       "views": 3212,
       "category": "research"
     },
     {
-      "id": 18,
-      "authorId": 3,
+      "id": "18",
+      "authorId": "3",
       "title": "UX Design Awards – Autumn 2023: 11 Winners Announced ",
       "description": "The recipients of the second installment of the 2023 UX Design Awards were unveiled today. The projects “Philips Sounds” by Philips Experience Design Studio Böblingen and Sen Sound LLC, as well as “Minutes&More” by Caroline Schmoll, Tibelia Kurtaran, and Timea Kosa-Timar, both clinched the prestigious UX Design Award | Gold. The jury also recognized seven professional and two “New Talent” solutions. Meanwhile, the Call for Entries for the UX Design Awards – Spring 2024 has been launched, and submissions for the inaugural #UXDA24 competition will be accepted until November 30, 2023.",
       "views": 192342,
       "category": "UI/UX"
     },
     {
-      "id": 19,
-      "authorId": 2,
+      "id": "19",
+      "authorId": "2",
       "title": "The library for web and native user interfaces",
       "description": "React lets you build user interfaces out of individual pieces called components. Create your own React components like Thumbnail, LikeButton, and Video. Then combine them into entire screens, pages, and apps.",
       "views": 54312,
       "category": "programming"
     },
     {
-      "id": 20,
-      "authorId": 1,
+      "id": "20",
+      "authorId": "1",
       "title": "What's in Next.js?",
       "description": "The React Framework for the Web. Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components.",
       "views": 18762,
       "category": "programming"
     },
     {
-      "id": 21,
-      "authorId": 1,
+      "id": "21",
+      "authorId": "1",
       "title": "A JS library for predictable and maintainable global state management",
       "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
       "views": 122,
       "category": "programming"
     },
     {
-      "id": 22,
-      "authorId": 1,
+      "id": "22",
+      "authorId": "1",
       "title": "CSS: Cascading Style Sheets",
       "description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
       "views": 768,
       "category": "programming"
     },
     {
-      "id": 23,
-      "authorId": 7,
+      "id": "23",
+      "authorId": "7",
       "title": "Lionel Messi",
       "description": "Born in Rosario, Argentina, Messi relocated to Spain to join Barcelona at age 13, and made his competitive debut at age 17 in October 2004. He established himself as an integral player for the club within the next three years, and in his first uninterrupted season in 2008–09 helped Barcelona achieve the first treble in Spanish football; that year, aged 22, Messi won the first of his four consecutive Ballons d'Or, the first player to win it four times.",
       "views": 172,
       "category": "sports"
     },
     {
-      "id": 24,
-      "authorId": 7,
+      "id": "24",
+      "authorId": "7",
       "title": "2022 FIFA World Cup",
       "description": "The 2022 FIFA World Cup was the 22nd FIFA World Cup, the quadrennial world championship for national football teams organized by FIFA. It took place in Qatar from 20 November to 18 December 2022, after the country was awarded the hosting rights in 2010.[2] It was the first World Cup to be held in the Middle East and Persian Gulf countries, and the second held entirely in Asia after the 2002 tournament in South Korea and Japan.[A]",
       "views": 152,
       "category": "sports"
     },
     {
-      "id": 25,
-      "authorId": 2,
+      "id": "25",
+      "authorId": "2",
       "title": "JavaScript",
       "description": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.",
       "views": 52,
       "category": "programming"
     },
     {
-      "id": 26,
-      "authorId": 6,
+      "id": "26",
+      "authorId": "6",
       "title": "2024 – Mark Simmons",
       "description": "‘I was going to sail around the globe in the world’s smallest ship, but I bottled it.’",
       "views": 12,
       "category": "comedy"
     },
     {
-      "id": 27,
-      "authorId": 9,
+      "id": "27",
+      "authorId": "9",
       "title": "12th Fail(2023)",
       "description": "12th Fail is a 2023 Indian Hindi-language biographical drama film directed, produced and written by Vidhu Vinod Chopra. It is based on the 2019 eponymous non-fiction book by Anurag Pathak about Manoj Kumar Sharma, who overcame extreme poverty to become an Indian Police Service officer.[4] The film stars Vikrant Massey as Sharma, alongside Medha Shankr, Anant V Joshi, Anshumaan Pushkar and Priyanshu Chatterjee.",
       "views": 112,
       "category": "movie"
     },
     {
-      "id": 28,
-      "authorId": 5,
+      "id": "28",
+      "authorId": "5",
       "title": "They trained artificial neural networks using physics",
       "description": "In 2024, two Nobel Laureates in Physics have used tools from physics to develop methods that are the foundation of today’s powerful machine learning. John Hopfield created an associative memory that can store and reconstruct images and other types of patterns in data. Geoffrey Hinton invented a method that can autonomously find properties in data, and so perform tasks such as identifying specific elements in pictures.",
       "views": 12,
       "category": "education"
     },
     {
-      "id": 29,
-      "authorId": 10,
+      "id": "29",
+      "authorId": "10",
       "title": "Zakir Naik",
       "description": "Zakir Abdul Karim Naik (born 18 October 1965) is an Indian Islamic public orator who focuses on comparative religion. Naik is currently a wanted fugitive in India, where, in 2016, the authorities charged Naik for money laundering while he was abroad in Malaysia; Naik did not return to India and became a permanent resident of Malaysia. Naik denies all charges. The National Investigation Agency attempted to issue an Interpol red notice for his arrest, which was refused due to insufficient evidence.",
       "views": 23412,
       "category": "religion"
     },
     {
-      "id": 30,
-      "authorId": 10,
+      "id": "30",
+      "authorId": "10",
       "title": "Hajj",
       "description": "Hajj (/hɑːdʒ/;[1] Arabic: حَجّ, romanized: Ḥajj; also spelled Hadj, Haj or Haji) is an annual Islamic pilgrimage to Mecca, Saudi Arabia, the holiest city for Muslims. Hajj is a mandatory religious duty for capable Muslims that must be carried out at least once in their lifetime by all adult Muslims who are physically and financially capable of undertaking the journey, and of supporting their family during their absence from home",
       "views": 98712,
@@ -242,67 +242,56 @@
     }
   ],
 
-  "author": [
+  "authors": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Mr. John",
       "profession": "Software Engineer"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mr. Joe",
       "profession": "Software Engineer"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Mr. Doe",
       "profession": "UI/UX designer"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Mr. Guest",
       "profession": "Researcher"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Mr. Alien",
       "profession": "Professor"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Mr. Jokes",
       "profession": "Comedian"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Mr. Pant",
       "profession": "Cricketer"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Mr. KK",
       "profession": "Singer"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Mr. DD",
       "profession": "Film Producer"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Md. Zakir Naik",
       "profession": "Islamic scholar"
     }
-  ],
-  "categories": [
-    "programming",
-    "religion",
-    "comedy",
-    "movie",
-    "music",
-    "education",
-    "sports",
-    "UI/UX",
-    "research"
   ]
 }
