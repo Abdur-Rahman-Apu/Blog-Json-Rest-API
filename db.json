@@ -106,7 +106,7 @@
     },
     {
       "id": "14",
-      "authorId": " 7",
+      "authorId": "7",
       "title": "Chris Gayle",
       "description": "Christopher Henry Gayle OD (born 21 September 1979) is a Jamaican cricketer who has played international cricket for the West Indies from 1999 to 2021.[1] Nicknamed 'The Universe Boss', Gayle is widely regarded as the greatest batsman ever to have played Twenty20 cricket.[2][3] He played a crucial role in the West Indies teams that won the 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.",
       "views": 12134,
@@ -241,7 +241,14 @@
       "category": "religion"
     }
   ],
-
+  "comments": [
+    {
+      "id": "1",
+      "postId": "1",
+      "authorId": "1",
+      "comment": "Check this one. It is awesome"
+    }
+  ],
   "authors": [
     {
       "id": "1",
