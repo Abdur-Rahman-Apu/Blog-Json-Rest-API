@@ -5,8 +5,6 @@
 
 Welcome to my **Blog REST API**! This project is built using **JSON-Server**, which mimics a RESTful API for a blogging platform. You can perform CRUD operations on blog posts and author details using various API endpoints.
 
----
-
 ## 🖥️ **Demo**
 
 🚀 **[Live Demo](https://blog-json-rest-api.onrender.com/)**
@@ -123,7 +121,7 @@ You can easily paginate and sort the results:
    ```bash
    git clone https://github.com/Abdur-Rahman-Apu/Blog-Json-Rest-API.git
    ```
-2. Install **JSON-Server**:
+2. Install **dependencies**:
    ```bash
    npm install
    ```
