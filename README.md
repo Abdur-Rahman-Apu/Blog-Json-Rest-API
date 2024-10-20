@@ -7,6 +7,12 @@ Welcome to my **Blog REST API**! This project is built using **JSON-Server**, wh
 
 ---
 
+## 🖥️ **Demo**
+
+🚀 **[Live Demo](https://blog-json-rest-api.onrender.com/)**
+
+---
+
 ## 📌 **Features**
 
 - 📝 Manage **blog posts** and **author details**.
@@ -119,28 +125,15 @@ You can easily paginate and sort the results:
    ```
 2. Install **JSON-Server**:
    ```bash
-   npm install -g json-server@0.17.4
+   npm install
    ```
 3. Run the JSON-Server:
+
    ```bash
-   json-server --watch db.json
+      npm run dev
    ```
-4. Run the JSON-Server using npm
 
-   - Add the below syntax in the package.json file
-
-     ```js
-        "scripts": {
-           "dev": "json-server --watch db.json"
-        },
-     ```
-
-   - Run the below command
-     ```bash
-        npm run dev
-     ```
-
-5. Access the API at:
+4. Access the API at:
    ```bash
    http://localhost:3000
    ```
